@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+section {
+  margin: 10% auto;
+  /* justify-content: center;
+  align-items: center; */
+  width: 60%;
+  background-color: aqua;
+  padding: 60px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.baba {
+  margin: 0% auto;
+  /* margin-left: 50px; */
+
+  width: 40%;
+}
+h1 {
+  width: 60%;
+  margin-left: 50px;
+  font-size: 32px;
+}
+/* .real-div{
+  width: 1%;
+  margin: 0% auto;
+} */
+.button {
+  margin-top: 10px;
+  padding: 6px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 5px;
+}
+.button1 {
+  background-color: green;
+  border: none;
+}
+.button2 {
+  background-color: red;
+  border: none;
+}
+.button3 {
+  background-color:wheat;
+  border: none;
+}
